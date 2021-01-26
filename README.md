@@ -4,7 +4,7 @@
 
 <github-stats>
 <summary>GitHub Stats:</summary>
-  
+this should be hidden
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-siddiqui&hide=issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 </github-stats>
