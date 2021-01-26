@@ -4,7 +4,7 @@
 
 <p align="center">
   
-[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-siddiqui&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-siddiqui&hide=issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
