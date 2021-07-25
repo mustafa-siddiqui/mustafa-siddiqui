@@ -1,6 +1,6 @@
 ### Hi, I'm Mustafa 👋🏼
 
-![headerImage](https://github.com/mustafa-siddiqui/mustafa-siddiqui/blob/master/headerImage.png)
+![headerImage](https://github.com/mustafa-siddiqui/mustafa-siddiqui/blob/master/header-img.png)
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/-mustafasiddiqui/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=msiddiq7@u.rochester.com)
   
