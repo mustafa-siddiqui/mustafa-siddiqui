@@ -12,6 +12,6 @@
 
 I am an embedded software engineer @ [Lutron Electronics](https://www.lutron.com/en-US/pages/default.aspx). I recently graduated cum laude, with high distinction, from the [University of Rochester](https://rochester.edu/) (class of '22 🙌) with a BS in Electrical and Computer Engineering. During my undergrad, I fell in love with software and the intersection of it with hardware -- which led me to pursue the field of embedded systems. With a deep love of solving problems and building stuff, I hope to contribute to the world in a meaningful way.
 
-While I am not working, I love to explore new places, hang out with friends, and read - fiction & poetry. I also love to play soccer & chess.
+While I am not working, I love to explore new places, hang out with friends, binge watch netflix, and read -- fiction, mostly. I also love to play soccer & chess.
 
 Feel free to reach out over on [LinkedIn](https://www.linkedin.com/in/-mustafasiddiqui/)!
