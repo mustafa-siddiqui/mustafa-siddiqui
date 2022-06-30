@@ -14,4 +14,4 @@ I am an embedded software engineer @ [Lutron Electronics](https://www.lutron.com
 
 While I am not working, I love to explore new places, hang out with friends, binge watch netflix, and read -- fiction, mostly. I also love to play soccer & chess.
 
-Feel free to reach out over on [LinkedIn](https://www.linkedin.com/in/-mustafasiddiqui/)!
+Feel free to reach out over on [LinkedIn](https://www.linkedin.com/in/-mustafasiddiqui/) :)
