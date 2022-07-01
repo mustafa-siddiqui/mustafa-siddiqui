@@ -1,7 +1,11 @@
-### Hi, I'm Mustafa 👋🏼
+<h3 align="center">👋 Hi, I'm Mustafa</h3>
+
+---
 
 <!--
 ## comment out previous stuff -- header image, link buttons, github stats ##
+
+### Hi, I'm Mustafa 👋🏼
 
 ![headerImage](https://github.com/mustafa-siddiqui/mustafa-siddiqui/blob/master/header-img.png)
 
